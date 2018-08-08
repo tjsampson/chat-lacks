@@ -73,7 +73,7 @@ or
 go build && go install && chat-lacks
 ```
 
-### Chatroom Useage
+### Chatroom Usage
 
 Users can interact with the chatroom through TCP and/or HTTP connections.
 
