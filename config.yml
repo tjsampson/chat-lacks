@@ -1,0 +1,6 @@
+---
+
+TcpPort: "3000"
+HttpPort: "4000"
+HostAddr: "localhost"
+LogOutput: "lacks.log"
