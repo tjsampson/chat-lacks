@@ -35,6 +35,10 @@ Configuration data is read from the following locations, and in the following or
 - `$HOME/.chat-lacks/config.{yaml,json.toml}`
 - `./config.{yaml,json.toml}`
 
+## Dependencies
+
+- [viper](https://github.com/spf13/viper)
+
 ## Install Missing 3rd Party Dependencies (Vendor)
 
 Clone the repo and ensure deps are installed:
